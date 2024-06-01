@@ -121,6 +121,7 @@ function App() {
               </Typography>
             </Paper>
             <Paper
+              className="weather-card"
               elevation={3}
               sx={{
                 paddingInline: 3,
@@ -146,6 +147,7 @@ function App() {
               </Typography>
             </Paper>
             <Paper
+              className="weather-card"
               elevation={3}
               sx={{
                 paddingInline: 3,
@@ -171,6 +173,7 @@ function App() {
               </Typography>
             </Paper>
             <Paper
+              className="weather-card"
               elevation={3}
               sx={{
                 paddingInline: 3,
